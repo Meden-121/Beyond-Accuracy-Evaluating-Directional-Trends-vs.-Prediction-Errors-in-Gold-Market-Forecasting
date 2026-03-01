@@ -56,6 +56,7 @@ Enhance model performance by incorporating additional lag structures for exogeno
 Investigate macroeconomic impact using rate of change (returns) instead of absolute price levels.
 
 Upgrade the dataset to higher frequency (intraday/hourly) to capture short-term volatility and improve responsiveness to market movements.
+
 **🛠 Tools & Technologies**
 
 - Python (Pandas, NumPy)
